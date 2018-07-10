@@ -1,1 +1,2 @@
-![](./images/logo.png)
+<p style="text-align:center;">![](./images/logo.png)</p>
+
